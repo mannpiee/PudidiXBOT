@@ -120,5 +120,5 @@ maaf hanya menerima donasi pulsa kak:3
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 * [`Aris187ID`](https://github.com/A187ID/AR15BOT)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Tetris-Gameplay.gif" alt="Tetris Game" width="600" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mobile Legends-Gameplay.gif" alt="Mobile Legends Bang Bang" width="600" />
 
