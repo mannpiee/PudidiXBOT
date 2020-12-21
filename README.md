@@ -120,5 +120,5 @@ maaf hanya menerima donasi pulsa kak:3
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 * [`Aris187ID`](https://github.com/A187ID/AR15BOT)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario-Gameplay.gif" alt="Mario Game" width="600" />
+
 
