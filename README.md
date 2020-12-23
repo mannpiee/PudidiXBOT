@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Arman (VectorsMoe)
 <p align="center">
-<img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/temp/A187.jpg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/man-x199/PudidiXBOT/main/temp/Man.jpg" width="230" height="230"/>
 </p>
 <br>
 
@@ -16,7 +16,7 @@
 <a href="https://www.codefactor.io/repository/github/man-x199/PudidiXBOT"><img title="Rating" src="https://www.codefactor.io/repository/github/man-x199/PudidiXBOT/badge/main"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mam-x199/PudidiXBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/man-x199?color=blue&style=flat-square"></a>
+<a href="https://github.com/A187ID/AR15BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/A187ID?color=blue&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/A187ID/AR15BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/A187ID/AR15BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/A187ID/AR15BOT?label=Watchers&color=blue&style=flat-square"></a>
